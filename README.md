@@ -25,12 +25,11 @@ I'm planting trees and offsetting carbon for the 'tech' services I use. It's inc
 Help me, or start your own forest. Convince yourself or your boss to plant some trees for the good of the planet. [More Info][trees]
 
 <br/>
-<br/>
 
 ### 📊 GitHub Stats:
 ![Colin's github stats](https://github-readme-stats.vercel.app/api?username=colindensem&show_icons=true&theme=&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colindensem&langs_count=10)](https://github.com/colindensem)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colindensem&layout=compact&langs_count=10)](https://github.com/colindensem)
 
 _NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
 
