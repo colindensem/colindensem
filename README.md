@@ -8,7 +8,7 @@ I use this to list my public projects and various research repos from the years.
 - 🔭 I’m currently working on an opensource club management tool.
 - 🌱 I’m currently learning elixir and phoenix liveview.
 - 👯 I’m looking to collaborate on projects for good.
-- - 💬 Ask me anything [here](https://github.com/colindensem/colindensem/issues) related to <b>Ruby, Product Development, MVP - Minimal Viable Prototype, Skoda, Prgrammer Development, Consulting, The customer!</b>
+- - 💬 Ask me anything [here](https://github.com/colindensem/colindensem/issues) related to <b>Ruby, Product Development, MVP - Minimal Viable Prototype, Programmer Development, Consulting, The customer!</b>
 - ⚡ Fun fact: I started [BRISKODA](www.briskoda.net) and I love 🌲, lots of 🌲🌲🌲🌲. I also love 🧗🥾🏕️🌠.
 
 ### Connect with me:
