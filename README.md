@@ -1,4 +1,4 @@
-### Hi there, I'm Colin Densem 👋
+### Hi there, I'm Fynn 👋
 
 <!--
 **colindensem/colindensem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
